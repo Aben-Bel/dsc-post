@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dsc-post/static/css/main.54f47931.chunk.css",
+    "main.js": "/dsc-post/static/js/main.0a72f063.chunk.js",
+    "main.js.map": "/dsc-post/static/js/main.0a72f063.chunk.js.map",
+    "runtime-main.js": "/dsc-post/static/js/runtime-main.ca36172e.js",
+    "runtime-main.js.map": "/dsc-post/static/js/runtime-main.ca36172e.js.map",
+    "static/js/2.dfdea07d.chunk.js": "/dsc-post/static/js/2.dfdea07d.chunk.js",
+    "static/js/2.dfdea07d.chunk.js.map": "/dsc-post/static/js/2.dfdea07d.chunk.js.map",
+    "index.html": "/dsc-post/index.html",
+    "precache-manifest.6c4e8094646c01373b32c1cea37f087d.js": "/dsc-post/precache-manifest.6c4e8094646c01373b32c1cea37f087d.js",
+    "service-worker.js": "/dsc-post/service-worker.js",
+    "static/css/main.54f47931.chunk.css.map": "/dsc-post/static/css/main.54f47931.chunk.css.map",
+    "static/js/2.dfdea07d.chunk.js.LICENSE": "/dsc-post/static/js/2.dfdea07d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca36172e.js",
+    "static/js/2.dfdea07d.chunk.js",
+    "static/css/main.54f47931.chunk.css",
+    "static/js/main.0a72f063.chunk.js"
+  ]
+}
